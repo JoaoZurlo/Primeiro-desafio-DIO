@@ -1,6 +1,6 @@
 # Controle de Módulos concluídos e não concluídos :desktop_computer:
 
-_Este repositório será atualizado sempre que eu concluir um curso ou módulo :arrows_counterclockwise:_
+_Este repositório vai ser atualizado sempre que eu concluir um curso ou módulo :arrows_counterclockwise:_
 
 ## Concluídos :heavy_check_mark:
 
